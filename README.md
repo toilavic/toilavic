@@ -1,10 +1,10 @@
 ### Hi there 👋
-Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=toilavic.toilavic)  
+Glad to see you here! &nbsp; !  
 
 <br />
  
-### <div align="center">I'm Vic Nguyen, a fresher full-stack web developer.</div>
-🚀 A life-long leaner, courteous, talented, ambitious and enthusiastic person
+### <div align="center">I'm Vic Nguyen, a junior full-stack web developer.</div>
+A life-long leaner, courteous, talented, ambitious and enthusiastic person
 
 <br/>
 
